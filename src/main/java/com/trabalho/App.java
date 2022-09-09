@@ -2,7 +2,7 @@ package com.trabalho;
 import java.util.*;
 public class App 
 {
-    public static void main( String[] args )
+    public int identifyingTea()
     {
         Scanner in = new Scanner(System.in);
         int opt,tea,num = 0;
@@ -24,6 +24,6 @@ public class App
             
             if(opt == tea) num++;
         }
-        System.out.println("Number of right answers!: " + num);
+        return num;
     }
 }
