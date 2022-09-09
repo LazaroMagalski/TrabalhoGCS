@@ -6,3 +6,7 @@ As part of the Ideal Challenge of Pure-Tea Consumers (ICPC), a local TV show is 
 
 Given the actual tea type and the answers provided, determine the number of contestants who got the correct answer.
 
+INSTRUÇÕES:
+
+No terminal git clone https://github.com/MarcusQuirino/TrabalhoGCS 
+
